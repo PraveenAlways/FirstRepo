@@ -1,1 +1,2 @@
 This master.txt from firstrepo.
+this is from stage-3, topic 2 0f day-1 of 1.
